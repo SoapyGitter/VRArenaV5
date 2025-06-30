@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: 49dfcbf4a4e7c99488093352dfa9efb5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\Models\Environment\Building\scene.bin
+    assetPath: Assets\Models\Environment\Building\scene.bin
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\rusty_metal_baseColor.png
+    assetPath: Assets\Models\Environment\Building\textures\rusty_metal_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\Wood_rough_baseColor.png
+    assetPath: Assets\Models\Environment\Building\textures\Wood_rough_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\glassdirty_baseColor.jpeg
+    assetPath: Assets\Models\Environment\Building\textures\glassdirty_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\Woodgreyish_baseColor.jpeg
+    assetPath: Assets\Models\Environment\Building\textures\Woodgreyish_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\woodnails_baseColor.png
+    assetPath: Assets\Models\Environment\Building\textures\woodnails_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\rope_baseColor.png
+    assetPath: Assets\Models\Environment\Building\textures\rope_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\stone_baseColor.png
+    assetPath: Assets\Models\Environment\Building\textures\stone_baseColor.png
+  - type: 1
+    originalUri: Assets\Models\Environment\Building\textures\metal_baseColor.jpeg
+    assetPath: Assets\Models\Environment\Building\textures\metal_baseColor.jpeg
+  reportItems: []

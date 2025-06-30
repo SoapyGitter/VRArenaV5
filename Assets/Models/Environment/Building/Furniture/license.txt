@@ -1,0 +1,11 @@
+Model Information:
+* title:	Southern Gothic (western) prop kit
+* source:	https://sketchfab.com/3d-models/southern-gothic-western-prop-kit-da9a2112e0ce449b99782e998a241bd6
+* author:	PickledCactusAlan (https://sketchfab.com/PickledCactusAlan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Southern Gothic (western) prop kit" (https://sketchfab.com/3d-models/southern-gothic-western-prop-kit-da9a2112e0ce449b99782e998a241bd6) by PickledCactusAlan (https://sketchfab.com/PickledCactusAlan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

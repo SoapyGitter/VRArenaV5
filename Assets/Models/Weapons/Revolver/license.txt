@@ -1,0 +1,11 @@
+Model Information:
+* title:	Western Revolver
+* source:	https://sketchfab.com/3d-models/western-revolver-98d5a802c6b0422c8efb9bc10be96683
+* author:	Giroo (https://sketchfab.com/girayilhan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Western Revolver" (https://sketchfab.com/3d-models/western-revolver-98d5a802c6b0422c8efb9bc10be96683) by Giroo (https://sketchfab.com/girayilhan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

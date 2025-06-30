@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Sks | Weapon Model
+* source:	https://sketchfab.com/3d-models/old-sks-weapon-model-83c052440925489aa1df5960b1ecc6b2
+* author:	CATholic (https://sketchfab.com/CATholic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Sks | Weapon Model" (https://sketchfab.com/3d-models/old-sks-weapon-model-83c052440925489aa1df5960b1ecc6b2) by CATholic (https://sketchfab.com/CATholic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
